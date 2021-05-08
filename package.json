@@ -1,0 +1,18 @@
+{
+  "name": "cowinapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "beepbeep": "^1.3.0",
+    "dotenv": "^9.0.0",
+    "moment": "^2.29.1",
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
